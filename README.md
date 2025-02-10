@@ -23,7 +23,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </thead>
 <tbody>
 <tr>
-<th colspan="11">January</th>
+<th colspan="11" align="">January</th>
 </tr>
 <tr>
 <td colspan="11" align="center">nothing here</td>
@@ -69,6 +69,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <th colspan="11">April</th>
+</tr>
+<tr>
+<td>1st & 2nd</td>
+<td><a href="https://fediforum.org/">FediForum</a></td>
+<td><em>online</em></td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
 </tr>
 <tr>
 <th colspan="11">May</th>
