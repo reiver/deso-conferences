@@ -133,6 +133,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="11">October</th>
 </tr>
 <tr>
+<td>1st & 2nd</td>
+<td>various tracks @ <a href="https://www.asia.token2049.com/">Token2049 Asia</a></td>
+<td>Marina Bay Sands (Singapore)</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">November</th>
 </tr>
 <tr>
