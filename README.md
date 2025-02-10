@@ -33,7 +33,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>1st & 2nd</td>
-<td><a href="https://fosdem.org/2025/">FOSDEM</a></td>
+<td>various tracks @ <a href="https://fosdem.org/2025/">FOSDEM</a></td>
 <td>Brussels (Belgium)</td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
@@ -100,7 +100,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>June 30th to July 3rd</td>
-<td><a href="https://ethcc.io/">ETHCC</a></td>
+<td>various tracks @ <a href="https://ethcc.io/">ETHCC</a></td>
 <td>Cannes (France)</td>
 <td align="center">☒</td>
 <td align="center">☑️</td>
