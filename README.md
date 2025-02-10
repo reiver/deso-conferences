@@ -25,7 +25,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="10">January</th>
 </tr>
 <tr>
-<td colspan="10">nothing here</td>
+<td colspan="10" align="center">nothing here</td>
 </tr>
 <tr>
 <th colspan="10">February</th>
@@ -45,10 +45,20 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>9th & 10th</td>
-<td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</td>a</td>
+<td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</a></td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
 <td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
+<td>22nd & 23rd</td>
+<td><a href="https://atprotocol.dev/atmosphereconf/">ATmosphereConf</a></td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
 <td align="center">☒</td>
 <td align="center">☒</td>
 <td align="center">☒</td>
