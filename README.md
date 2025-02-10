@@ -138,6 +138,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="11">August</th>
 </tr>
 <tr>
+<td>TBD</td>
+<td>FediCon</td>
+<td>Edmonton (Alberta)</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">September</th>
 </tr>
 <tr>
