@@ -25,7 +25,20 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="10">January</th>
 </tr>
 <tr>
+<td colspan="10">nothing here</td>
+</tr>
+<tr>
 <th colspan="10">February</th>
+</tr>
+<tr>
+<td>1st & 2nd</td>
+<td><a href="https://fosdem.org/2025/">FOSDEM</a></td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☑️</td>
 </tr>
 <tr>
 <th colspan="10">March</th>
