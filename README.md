@@ -44,6 +44,16 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="10">March</th>
 </tr>
 <tr>
+<td>9th & 10th</td>
+<td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</td>a</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="10">April</th>
 </tr>
 <tr>
