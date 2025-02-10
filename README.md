@@ -9,6 +9,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <tr>
 <th rowspan="2">When</th>
 <th rowspan="2">Conference Name</th>
+<th rowspan="2">Location</th>
 <th colspan="6">Social-Network</th>
 </tr>
 <tr>
@@ -22,17 +23,18 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </thead>
 <tbody>
 <tr>
-<th colspan="10">January</th>
+<th colspan="11">January</th>
 </tr>
 <tr>
-<td colspan="10" align="center">nothing here</td>
+<td colspan="11" align="center">nothing here</td>
 </tr>
 <tr>
-<th colspan="10">February</th>
+<th colspan="11">February</th>
 </tr>
 <tr>
 <td>1st & 2nd</td>
 <td><a href="https://fosdem.org/2025/">FOSDEM</a></td>
+<td>Brussels (Belgium)</td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
 <td align="center">☑️</td>
@@ -41,11 +43,12 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <td align="center">☑️</td>
 </tr>
 <tr>
-<th colspan="10">March</th>
+<th colspan="11">March</th>
 </tr>
 <tr>
 <td>9th & 10th</td>
 <td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</a></td>
+<td>Austin (Texas)</td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
 <td align="center">☑️</td>
@@ -56,6 +59,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <tr>
 <td>22nd & 23rd</td>
 <td><a href="https://atprotocol.dev/atmosphereconf/">ATmosphereConf</a></td>
+<td>Seattle (Washington State)</td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
 <td align="center">☒</td>
@@ -64,31 +68,31 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <td align="center">☒</td>
 </tr>
 <tr>
-<th colspan="10">April</th>
+<th colspan="11">April</th>
 </tr>
 <tr>
-<th colspan="10">May</th>
+<th colspan="11">May</th>
 </tr>
 <tr>
-<th colspan="10">June</th>
+<th colspan="11">June</th>
 </tr>
 <tr>
-<th colspan="10">July</th>
+<th colspan="11">July</th>
 </tr>
 <tr>
-<th colspan="10">August</th>
+<th colspan="11">August</th>
 </tr>
 <tr>
-<th colspan="10">September</th>
+<th colspan="11">September</th>
 </tr>
 <tr>
-<th colspan="10">October</th>
+<th colspan="11">October</th>
 </tr>
 <tr>
-<th colspan="10">November</th>
+<th colspan="11">November</th>
 </tr>
 <tr>
-<th colspan="10">December</th>
+<th colspan="11">December</th>
 </tr>
 </tbody>
 </table>
