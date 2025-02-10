@@ -139,7 +139,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>TBD</td>
-<td>FediCon</td>
+<td><strong>FediCon</strong></td>
 <td>Edmonton (Alberta)</td>
 <td align="center">☒</td>
 <td align="center">☒</td>
