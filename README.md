@@ -43,6 +43,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <td align="center">☑️</td>
 </tr>
 <tr>
+<td>February 23rd to March 2nd</td>
+<td>various tracks @ <a href="https://www.ethdenver.com/">EthDenver</a></td>
+<td>Denver (Colorada)</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">March</th>
 </tr>
 <tr>
