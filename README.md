@@ -169,6 +169,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="11">November</th>
 </tr>
 <tr>
+<td>TBD</td>
+<td>various tracks @ <a href="https://devcon.org/">Devcon</a></td>
+<td>TBD</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">December</th>
 </tr>
 </tbody>
