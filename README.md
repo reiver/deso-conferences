@@ -47,7 +47,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>9th & 10th</td>
-<td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</a></td>
+<td><a href="https://about.flipboard.com/fediverse-house/">Fediverse House</a> @ SXSW</td>
 <td>Austin (Texas)</td>
 <td align="center">☑️</td>
 <td align="center">☒</td>
