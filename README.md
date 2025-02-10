@@ -83,7 +83,7 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 </tr>
 <tr>
 <td>April 30 & May 1st</td>
-<td>various tracks @ <a href="https://www.dubai.token2049.com/">Token2049 in Dubai</a></td>
+<td>various tracks @ <a href="https://www.dubai.token2049.com/">Token2049 Dubai</a></td>
 <td>Dubai (UAE)</td>
 <td align="center">☒</td>
 <td align="center">☑️</td>
