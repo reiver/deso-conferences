@@ -88,6 +88,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="11">June</th>
 </tr>
 <tr>
+<td>June 30th to July 3rd</td>
+<td><a href="https://ethcc.io/">ETHCC</a></td>
+<td>Cannes (France)</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">July</th>
 </tr>
 <tr>
