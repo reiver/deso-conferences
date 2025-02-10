@@ -74,6 +74,17 @@ This document lists out a calendar for upcoming (and historical) **conferences**
 <th colspan="11">May</th>
 </tr>
 <tr>
+<td>1st to 4th</td>
+<td><a href="https://farcon.nyc/">FarCon</a></td>
+<td>New York City (New York)</td>
+<td align="center">☒</td>
+<td align="center">☑️</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+<td align="center">☒</td>
+</tr>
+<tr>
 <th colspan="11">June</th>
 </tr>
 <tr>
